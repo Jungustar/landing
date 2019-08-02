@@ -1,0 +1,18 @@
+/* Your card CSS file */
+.card {
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin: 10px;
+}
+
+.card h3, p {
+  padding-left: 0px;
+  text-align: center;
+
+}
+
+.card img {
+  object-fit: cover;
+  width: 100%;
+  object-position: center;
+}
+
